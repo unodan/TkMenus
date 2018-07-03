@@ -7,5 +7,7 @@ TkMenus is a real time dynamically configurable menus module based on Tkinter. T
 
 Sorry but currently there are no docs for this project, when time permits I will attend to it or if anyone would like to volunteer/contribute to this project that would be nice too! Although there are no docs it should not be to hard for anyone not new to Python to figure out what to do using the small example code in main.py.
 
+Video Demo: https://www.youtube.com/watch?v=KzdtFHgTQDk&feature=youtu.be
+
 Please leave any comments, bug reports, or features you would like added to danhuckson@hotmail.com
 
